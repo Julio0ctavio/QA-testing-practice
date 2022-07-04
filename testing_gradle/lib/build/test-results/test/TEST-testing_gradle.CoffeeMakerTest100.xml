@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testing_gradle.CoffeeMakerTest100" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-06-05T04:25:14" hostname="JOLP_PC_MASTER" time="0.003">
+  <properties/>
+  <testcase name="testAddRecipe1()" classname="testing_gradle.CoffeeMakerTest100" time="0.0"/>
+  <testcase name="testDeleteRecipe4()" classname="testing_gradle.CoffeeMakerTest100" time="0.001"/>
+  <testcase name="testAddInventory()" classname="testing_gradle.CoffeeMakerTest100" time="0.0"/>
+  <testcase name="testMakeCoffee()" classname="testing_gradle.CoffeeMakerTest100" time="0.0"/>
+  <testcase name="testAddInventoryException()" classname="testing_gradle.CoffeeMakerTest100" time="0.001"/>
+  <testcase name="testMakeCoffee1()" classname="testing_gradle.CoffeeMakerTest100" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

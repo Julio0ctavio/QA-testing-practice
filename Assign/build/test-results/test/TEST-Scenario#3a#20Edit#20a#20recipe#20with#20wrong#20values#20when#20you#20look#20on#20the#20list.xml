@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: Edit a recipe with wrong values when you look on the list" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-07-04T17:43:54" hostname="JOLP_PC_MASTER" time="0.001">
+  <properties/>
+  <testcase name="Given a default recipe book" classname="Scenario: Edit a recipe with wrong values when you look on the list" time="0.0"/>
+  <testcase name="When user selects edit_recipe" classname="Scenario: Edit a recipe with wrong values when you look on the list" time="0.0"/>
+  <testcase name="And user selects the recipe No 5" classname="Scenario: Edit a recipe with wrong values when you look on the list" time="0.0"/>
+  <testcase name="Then main menu raises up" classname="Scenario: Edit a recipe with wrong values when you look on the list" time="0.0"/>
+  <testcase name="classMethod" classname="Scenario: Edit a recipe with wrong values when you look on the list" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

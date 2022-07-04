@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.ncsu.csc326.coffeemaker.RunCukesTest" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="JOLP_PC_MASTER" time="0.0">
+  <properties/>
+  <system-out><![CDATA[Key # 1 selected
+You are in ADD_RECIPE mode
+Key # 2 selected
+You are in DELETE_RECIPE mode
+Key # 3 selected
+You are in EDIT_RECIPE mode
+Key # 4 selected
+You are in ADD_INVENTORY mode
+Key # 5 selected
+You are in CHECK_INVENTORY mode
+Key # 6 selected
+You are in PURCHASE_BEVERAGE mode
+Add Recipe option...
+New recipe added => MokaLoka
+Status: OK
+Delete Recipe option...
+Recipe deleted: Latte
+Status: OK
+Delete Recipe option...
+Recipe empty / Null
+Status: OK
+Edit Recipe option...
+Recipe updated => Coffee
+Status: OK
+Edit Recipe option...
+Index Out, try with other number between 1-4.
+Status: OK
+Add inventory option...
+Status message => OK
+Inventory updated
+Status: OK
+Check Inventory option...
+Inventory: 
+Coffee: 30
+Milk: 30
+Sugar: 30
+Chocolate: 30
+
+Status: OK
+Purchase coffee option...
+Recipe No 2 selected: Mocha
+not enough money: 75
+moneyInserted: 0 remainder: 0
+Status: INSUFFICIENT_FUNDS
+Inserting money option...
+moneyInserted: 75
+Status: OK
+Purchase coffee option...
+Recipe No 2 selected: Mocha
+using recipes succeeded
+moneyInserted: 75 remainder: 0
+Beverage purchased => Mocha
+Status: OK
+Add Recipe option...
+All recipes: 
+Name => Choco_Grandma
+Name => Azteca
+Name => Moreliano
+Name => De_Olla
+Status: OK
+Add Recipe option...
+Your recipe already exists, you must edit it => Mocha
+Status: OK
+Add Recipe option...
+The recipe list is full, please remove one recipe before add this one.
+Status: OK
+
+17 Scenarios (?[32m17 passed?[0m)
+73 Steps (?[32m73 passed?[0m)
+0m0.113s
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
